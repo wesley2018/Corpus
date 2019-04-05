@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorpusAPI", "CorpusAPI\CorpusAPI.csproj", "{7371D4D5-40DF-42F7-9F65-61D52C463D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7371D4D5-40DF-42F7-9F65-61D52C463D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7371D4D5-40DF-42F7-9F65-61D52C463D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7371D4D5-40DF-42F7-9F65-61D52C463D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7371D4D5-40DF-42F7-9F65-61D52C463D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5302559-EAE5-42B7-8948-F8D7102F67CB}
+	EndGlobalSection
+EndGlobal
